@@ -1,16 +1,6 @@
-# untitled
+This is my first flutter project.
 
-A new Flutter project.
+I am testing around and learning the basics of flutter and built this Random name generator app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app can generate a limited combination of words from an imported dictionary library tha randomly connects them.
+You can also like a word which will be stored in a seperate page where you can see the number of favorite words you added and which ones these ones are.
